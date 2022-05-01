@@ -1,5 +1,5 @@
 # fork function
 
-getSendedOffersNonApi({ mySteamId: string }, callback)
-getHoldOffersNonApi({ mySteamId: string }, callback)
-cancelOfferNonApi({ steamId: string, tradeOfferId: string }, callback)
+getSendedOffersNonApi({ mySteamId: string }, callback)__
+getHoldOffersNonApi({ mySteamId: string }, callback)__
+cancelOfferNonApi({ steamId: string, tradeOfferId: string }, callback)__
