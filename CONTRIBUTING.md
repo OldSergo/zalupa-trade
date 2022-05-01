@@ -19,3 +19,4 @@ __Always__ do only one pull request per bug/feature.
 I reserve the right to close any pull request and/or rewrite your feature or fix myself. Please note that reviewing and testing your code also takes time so your changes won't be merged immediately after submission.
 
 -Thank you.
+2
