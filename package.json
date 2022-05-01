@@ -1,20 +1,18 @@
 {
-  "name": "steam-tradeoffers",
-  "version": "3.2.1",
-  "description": "Allows you to automate Steam trading using trade offers in Node.js",
-  "author": "Alexey Komarov <alex7kom@gmail.com>",
+  "name": "zalupa-trade",
+  "version": "0.0.1",
+  "description": "zalupka",
+  "author": "OldSergo",
   "license": "MIT",
-  "keywords": [
-    "steam"
-  ],
+  "keywords": [],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Alex7Kom/node-steam-tradeoffers.git"
+    "url": "https://github.com/OldSergo/zalupa-trade.git"
   },
   "dependencies": {
     "cheerio": "^0.22.0",
     "long": "^4.0.0",
-    "request": "^2.72.0"
+    "request": "^2.88.2",
   },
   "scripts": {}
 }
